@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+
+
+        <style>
+        h1{text-align:center;
+        color:red;
+            text-decoration:underline red 2px;
+            background-color:gray;
+            font-family:cursive;
+        }
+        h2{color:red;
+        font-family:cursive;}
+         h3{color:red;
+        font-family:cursive;}
+        body{font-family: Arial, Helvetica, sans-serif;
+            color:gray;
+        }
+        h6{color:gray;}
+        </head>    
+        </style>
+        <body>
+        
+        <h1>My Coding Journey.</h1>
+        
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4XuvbYkl-L3cHd2sk4wmq6YOfAWDxeyR5lw&usqp=CAU"alt="code-photo"width="500">
+        
+        <p>Hey there! Thank you for checking out my profile. </p>
+        <p>My name is Aderonke, I started coding on Sololearn in April 2022, at first I just did it for fun and to help with my boredom. But now, I look forward to coding everyday, I still do it for fun but I want a career off it ummm let's just say I am interested in Medical Technology.</p>
+        <p> This blog is dedicated to documenting my journey, I want you to come with me and let's see how far it goes. Ciao!!!</p>
+        <h3>Contents</h3>
+        <ul id="content-list">
+            <li><a href="#blog-post-one">How cool is Sololearn?</a></li>
+            <li><a href="#blog-post-two">Twitter and Technology</a></li>
+            <li> <a href="#blog-post-three">Pamela! My reason for falling in love with Khan Academy</a></li>
+        </ul>
+        
+        <h2 id="blog-post-one">How cool is Sololearn?</h2>
+        <h6>Posted on January 2nd, 2023</h6>
+        
+        <p>You know one of those long, boring afternoons where you are just scrolling mindlessly on your phone? Yeah, that was me in April 2022, fat and happy I decided I needed a new challenge. I heard about Sololearn from a Twitter mutual and I just had to download it to satisfy my tech curiosities. </p>
+        <p>Sololearn mobile app turned out to be so fun, I answered a few noob questions and I was recommended for HTML lessons. Bite-sized, concise, readily accessible plus exercise challenges, I was hooked. I thought to myself that "Um, I should live my life in tags now haha".</p>
+        <p>I finished the HTML course around May and then it dawned on me that I needed a laptop if I wanted to be effective and proceed with other courses like CSS. That was my first challenge, my laptop had spoilt the previous year and I couldn't afford another. I spent the next 5 months in guilt till I miraculosly got a new laptop in November 2022. Ah yes, I'll live my life in tags once again.</p>
+        
+        
+        <h2 id="blog-post-two">Twitter and Technology</h2>
+        <h6>Posted on January 3rd, 2023</h6>
+        <p>Twitter changed my life,I think the versatility of the bird app isn't emphasized enough. From information on Web3 Nfts, Defi, Gaming and Tech; I would argue that Twitter is a better and more detailed search engine than Google</p>
+        <p>If you are already a developer, I think you would understand what I'm talking about. If you are a noob(like me haha), you should follow the right people, content and build a solid network on Twitter. The opportunities are endless; from world-class approved tech roadmaps to free tech resources to daily motivations to carefully curated information by experts to device giveaways to tech gigs to impactful friends, It really is an amazing place to be.</p>
+        <p>Twitter opened my eyes so I can live my life in tags and for that I'm grateful</p>
+        
+        <h2 id="blog-post-three">Pamela! My reason for falling in love with Khan Academy.</h2>
+        <h6>Posted on January 4th, 2023</h6>
+      <p>When I got back to coding in November 2022 after a 5 months hiatus, I had forgotten everything I knew, I just wanted to try again. Pamela's voice was the first thing I heard when I clicked on the first "Intro to HTML AND CSS" course.</p>
+      <p>That voice kept me going, it was a kind and fun voice plus she always paused to give me time to play around with the codes, I went ahead to have a look at <a href="https://www.linkedin.com/in/pamela-fox-5668b1b4">her LinkedIn profile</a> and it motivated me to keep going and write<a href="https://www.khanacademy.org/computer-programming/2023-goals/4712661572435968"> my first code</a>.</p>
+      <p>Hey Pamela Fox, if you ever read this, I just wanted to say thank you. Thank you very much. Thank you Khan Academy.</p>
+      
+    </body>
+</html>
