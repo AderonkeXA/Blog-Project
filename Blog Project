@@ -29,10 +29,9 @@
         a{color:gray;
             text-decoration-color:red;
         }
-        .center{display:block;
-        margin-left:auto;
-        margin-right:auto;
-        width:50%;}
+        #image{display:inline-block;
+        width:100%;}
+        
         body{background-color:(00,80,00);
         color:white;}
         </head>
@@ -41,7 +40,7 @@
         <div>
         <h1>My Coding Journey.</h1>
         </div>
-        <img class="center"src="https://wallpapercave.com/dwp1x/wp4241384.jpg"alt="code-photo"width="500">
+        <img id="image"src="https://wallpapercave.com/dwp1x/wp4241384.jpg"alt="code-photo"width="500">
         
         <p>Hey there! Thank you for checking out my profile. </p>
         <p>My name is Aderonke, I started coding on Sololearn in April 2022, at first I just did it for fun and to help with my boredom. But now, I look forward to coding everyday, I still do it for fun but I want a career off it ummm let's just say I am interested in Medical Technology.</p>
